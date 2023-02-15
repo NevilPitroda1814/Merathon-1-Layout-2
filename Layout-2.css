@@ -1,0 +1,45 @@
+/* Header CSS */
+.icon_title{
+    padding:2%;
+}
+.icon_logo{
+    background-color: #4e7685;
+    box-shadow: 3px 3px #183b51;
+    height: 2%;
+    padding: 4%;
+}
+.icon_txt p{
+    margin-top: 2%;
+}
+.icon_txt b{
+    color: #d06444;
+    font-weight: 950;
+}
+.section_img{
+    position: absolute;
+    margin-top: 8%;
+}
+.section_img img{
+    width: 95%;
+}
+.header_txt h2{
+    position: absolute;
+    width: 47%;
+    text-align: center;
+    right: 0;
+    padding: 10% 0 20% 0;
+    margin-right: 20%;
+    background-color: #093c3a9b;
+    border-radius: 0 0 100px 100px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/* Session start */
+
+.services{
+    margin-top: 70%;
+}
+.snd_section{
+    margin-top: 70%;
+}
